@@ -25,13 +25,21 @@ I suggest you continue reading the 'SAFER ALTERNATIVE' below.
 You can use an app password. See how to make one below:
 
 - go to 'Manage your google account'
+![]()
 - then click on the 'security' tab
+![]()
 - find 'Signing into Google'
+![]()
 - click on 'App passwords'
+![]()
 - type out your password
+![]()
 - change 'Select app' to 'Mail'
+![]()
 - change 'Select device' to the device you are currently using
+![]()
 - Hit 'Generate' to get your password
+![]()
 
 Use the newly-generated password in place of `sender_password`
 
