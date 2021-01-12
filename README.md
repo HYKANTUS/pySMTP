@@ -1,6 +1,9 @@
 # pySMTP
 An easy-to-use python library to send emails within seconds.
+
 Based on the pre-installed [smtplib](https://docs.python.org/3/library/smtplib.html) library.
+
+**See the pypi project [here](https://pypi.org/project/pySMTP/)
 
 ## IMPORTANT
 Gmail users must turn on 'Less secure app access' in order to avoid smtplib errors. 
